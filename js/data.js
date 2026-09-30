@@ -85,7 +85,7 @@ window.PORTFOLIO = {
       noteSide: "below",
       items: [
         { title: "Entrenador de bádminton", org: "Club Bádminton Rivas", time: "Más de 7 años", text: "Grupos de niños de entre 6 y 10 años." },
-        { title: "Entrenador de bádminton", org: "IPAFD", time: "1 año", text: "Alumnos de secundaria." },
+        { title: "Entrenador de bádminton", org: "IES Europa - IPAFD", time: "1 año", text: "Alumnos de secundaria." },
         { title: "Profesor particular de matemáticas", org: "2.º de Bachillerato", time: "1 año", text: "" },
       ],
     },
