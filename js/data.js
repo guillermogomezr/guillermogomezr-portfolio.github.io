@@ -24,7 +24,7 @@ window.PORTFOLIO = {
       "Ingeniero informático en constante aprendizaje, enfocado en diseñar y desplegar soluciones en la nube automatizadas, seguras y escalables.",
     email: "guillermogr13@yahoo.es",
     linkedin: "", // p. ej. "https://www.linkedin.com/in/tu-usuario"
-    github: "", //   p. ej. "https://github.com/tu-usuario"
+    github: "https://github.com/guillermogomezr",
     photo: "assets/img/foto-perfil.jpg",
     cvPdf: "assets/cv-guillermo-gomez-rivas.pdf",
     tfgUrl: "https://oa.upm.es/98407/", // TFG publicado en el Archivo Digital UPM
