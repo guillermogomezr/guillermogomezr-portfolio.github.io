@@ -18,7 +18,7 @@ window.PORTFOLIO = {
     name: "Guillermo Gómez Rivas",
     first: "Guillermo",
     last: "Gómez Rivas",
-    initials: "Guillermo Gómez Riva",
+    initials: "Guillermo Gómez Rivas",
     role: "Arquitecto Cloud Junior",
     tagline:
       "Ingeniero informático en constante aprendizaje, enfocado en diseñar y desplegar soluciones en la nube automatizadas, seguras y escalables.",
